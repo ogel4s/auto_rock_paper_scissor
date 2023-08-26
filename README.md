@@ -7,4 +7,4 @@ For example, if one house is scissors and another house is paper and they compet
 
 This process continues until one of the characters (rock, paper, scissors) fills the entire screen.
 
-*Of course, it is possible that the game will reach a stage where the program will run forever and no result will be displayed.*
+**Of course, it is possible that the game will reach a stage where the program will run forever and no result will be displayed.**
